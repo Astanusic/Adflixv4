@@ -9,6 +9,7 @@ export const Inner = styled.div`
   display: flex;
   padding: 70px 45px;
   flex-direction: column;
+  align-items: center;
   max-width: 815px;
   margin: auto;
 `;
@@ -70,7 +71,7 @@ export const Body = styled.div`
   font-weight: normal;
   line-height: normal;
   background: #303030;
-  padding: 0.8em 2.2em;
+  padding: 0.8em 2.2em 0.8em 1.2em;
   white-space: pre-wrap;
   user-select: none;
 
