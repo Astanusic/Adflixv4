@@ -35,5 +35,7 @@ export const FooterContainer = () => (
         <Footer.Link href="#">Legal Notices</Footer.Link>
       </Footer.Column>
     </Footer.Row>
+    <Footer.Break />
+    <Footer.Text>Adflix France</Footer.Text>
   </Footer>
 );
