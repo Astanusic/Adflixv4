@@ -1,7 +1,7 @@
 import React from "react";
 import { Accordion } from "../components";
 import faqsData from "../fixtures/faqs.json";
-import FaqsForm from "../components/faqs-form";
+import { FaqsForm } from "../components";
 
 export function FaqsContainer() {
   return (
